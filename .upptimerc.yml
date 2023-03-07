@@ -16,9 +16,9 @@ status-website:
   #cname: demo.upptime.js.org
   baseUrl: /upptime-test
   logoUrl: https://cdn.cookielaw.org/logos/d96286c9-3074-446f-b7cc-33793289e1d8/a53902d8-786b-4cf4-bfff-26e98ca267e8/acae450d-8663-493c-ba0b-87b513dee83e/higg-lockup-360x104.png
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: HIGG Status Page
+  name: HIGG Status Page
+  introTitle: "**Higg** is an integrated software platform that helps you take responsibility for your entire impact – from materials to products, from factories to stores, from carbon emissions to working conditions."
+  introMessage: Status Page
   navbar:
     - title: Status
       href: /
