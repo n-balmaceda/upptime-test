@@ -7,28 +7,10 @@ sites:
     url: https://scrollarmy.com.ar
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  #cname: demo.upptime.js.org
   baseUrl: /upptime-test
-  logoUrl: https://cdn.cookielaw.org/logos/d96286c9-3074-446f-b7cc-33793289e1d8/a53902d8-786b-4cf4-bfff-26e98ca267e8/acae450d-8663-493c-ba0b-87b513dee83e/higg-lockup-360x104.png
-  name: HIGG Status Page
-  introTitle: "**Higg** is an integrated software platform that helps you take responsibility for your entire impact – from materials to products, from factories to stores, from carbon emissions to working conditions."
+  name: Scrollarmy Status Page
+  introTitle: "**Scrollarmy** is the best community ever"
   introMessage: Status Page
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-      
-workflowSchedule:
-  graphs: "*/5 * * * *"
-  responseTime: "*/5 * * * *"
-  staticSite: "*/5 * * * *"
-  summary: "*/5 * * * *"
-  updateTemplate: "*/5 * * * *"
-  updates: "*/5 * * * *"
-  uptime: "*/5 * * * *"
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
